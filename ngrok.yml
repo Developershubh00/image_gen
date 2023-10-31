@@ -1,6 +1,0 @@
-authtoken: 2XKpFCvTwWJi7Le3oUcCDvl5Unp_3YQ7X94r9Y8ozRpYTT1cs
-tunnels:
-  app1:
-    addr: 3000
-  app2:
-    addr: 4000

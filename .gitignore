@@ -1,1 +1,9 @@
 myenv/
+# Byte-compiled / optimized / DLL files
+_pycache_/
+*.py[cod]
+*$py.class
+
+# Flask stuff:
+instance/
+.webassets-cache
